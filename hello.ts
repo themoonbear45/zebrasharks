@@ -1,5 +1,5 @@
 const sayHello = (name: string) => {
-    console.log(`Hello ${name}`);
+    console.log(`Hello ${name}`)
 };
 
 sayHello('Zebra Sharks')
